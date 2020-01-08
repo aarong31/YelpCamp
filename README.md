@@ -37,17 +37,28 @@ Responsive web design
 # <strong>Built with</strong>
 <strong>Front-end</strong>
 ejs
+
 Bootstrap
 
 <strong>Back-end</strong>
 express
+
 mongoDB
+
 mongoose
+
 async
+
 passport
+
 passport-local
+
 express-session
+
 method-override
+
 connect-flash
+
 Platforms
+
 goorm

@@ -62,6 +62,6 @@ method-override
 
 connect-flash
 
-Platforms
+<strong>Platforms</strong>
 
 goorm

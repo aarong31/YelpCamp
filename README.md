@@ -1,14 +1,14 @@
 # YelpCamp
 
-<strong>Features</strong>
+# <strong>Features</strong>
 
-Authentication:
+<strong>Authentication: </strong>
 
 User login with username and password
 
 Admin sign-up with admin code
 
-Authorization:
+<strong>Authorization:</strong>
 
 One cannot manage posts and view user profile without being authenticated
 
@@ -34,12 +34,12 @@ Responsive web design
 
 
 
-Built with
-Front-end
+# <strong>Built with</strong>
+<strong>Front-end</strong>
 ejs
-
 Bootstrap
-Back-end
+
+<strong>Back-end</strong>
 express
 mongoDB
 mongoose

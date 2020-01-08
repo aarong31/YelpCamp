@@ -2,13 +2,13 @@
 
 # <strong>Features</strong>
 
-<strong>Authentication: </strong>
+<h2>Authentication: </h2>
 
 User login with username and password
 
 Admin sign-up with admin code
 
-<strong>Authorization:</strong>
+<h2>Authorization:</h2>
 
 One cannot manage posts and view user profile without being authenticated
 

@@ -35,14 +35,14 @@ Responsive web design
 
 
 # <strong>Built with</strong>
-<strong>Front-end</strong>
+<h2>Front-end</h2>
 
 ejs
 
 Bootstrap
 
 
-<strong>Back-end</strong>
+<h2>Back-end</h2>
 
 express
 
@@ -62,6 +62,6 @@ method-override
 
 connect-flash
 
-<strong>Platforms</strong>
+<h2>Platforms</h2>
 
 goorm

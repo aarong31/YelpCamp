@@ -50,8 +50,6 @@ mongoDB
 
 mongoose
 
-async
-
 passport
 
 passport-local
@@ -65,3 +63,4 @@ connect-flash
 <h2>Platforms</h2>
 
 goorm
+heroku

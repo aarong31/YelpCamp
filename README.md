@@ -10,9 +10,9 @@ Admin sign-up with admin code
 
 <h2>Authorization:</h2>
 
-One cannot manage posts and view user profile without being authenticated
+User cannot manage posts and view user profile without being authenticated
 
-One cannot edit or delete posts and comments created by other users
+User cannot edit or delete posts and comments created by other users
 
 Admin can manage all posts and comments
 
@@ -29,9 +29,6 @@ Manage user account with basic functionalities:
 Profile page setup with sign-up
 
 Flash messages responding to users' interaction with the app
-
-Responsive web design
-
 
 
 # <strong>Built with</strong>
